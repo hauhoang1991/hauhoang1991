@@ -3,6 +3,8 @@
  - I'm passionate about iOS Development, Data Science, and Testing 🖥
  - 2023 Goals 🔭: Working on more projects to improve myself
 
+https://github-readme-stats.vercel.app/api?username=hauhoang1991&theme=radical
+
 <!--
 **hauhoang1991/hauhoang1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
